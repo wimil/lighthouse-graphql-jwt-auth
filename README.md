@@ -7,8 +7,8 @@
 ## Install
 `composer require wimil/lighthouse-graphql-jwt-auth`
 
-## Usage
-Write a few lines about the usage of this package.
+## Documentation
+Find the detailed documentation in the [documentation site](https://lighthouse-graphql-jwt-auth.netlify.app/#/)
 
 ## Testing
 Run the tests with:
